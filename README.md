@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-![](./image1.png)
+![](./diagram.png)
 This project demonstrates the deployment of a 3-Tier architecture on AWS, ensuring high availability, fault tolerance, and security for web applications. The project involves setting up a **Web Tier (ReactJS & Nginx), App Tier (NodeJS & MySQL), and Database Tier (MySQL RDS)** within a custom-built **Virtual Private Cloud (VPC)** with multiple availability zones.
 
 The infrastructure is designed to be scalable, resilient, and secure, leveraging **AWS networking resources, load balancers, auto-scaling, and managed services**.
