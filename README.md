@@ -35,6 +35,7 @@ The infrastructure is designed to be scalable, resilient, and secure, leveraging
 - Configure **Route Tables**:
   - Web-Tier route table (Attach IGW and connect to web-tier subnets).
   - App-Tier route table (Attach NAT Gateway for private communication).
+![](./media/Resource Map VPC.png)
 
 ### **3. Security Groups Setup**
 - **EXT-LB-SG** → Allow HTTP (80) from the internet.
